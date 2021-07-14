@@ -1,0 +1,33 @@
+{
+  "name": "@oawu/lcd1602",
+  "version": "1.0.1",
+  "description": "🖥 node.js 的 LCD1602 工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comdan66/node-LCD1602.git"
+  },
+  "keywords": [
+    "LCD1602",
+    "Raspberry Pi",
+    "I2C",
+    "smbus"
+  ],
+  "author": {
+    "name": "OA Wu",
+    "email": "comdan66@gmail.com",
+    "url": "https://www.ioa.tw"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/comdan66/node-LCD1602/issues"
+  },
+  "homepage": "https://github.com/comdan66/node-LCD1602#readme",
+  "dependencies": {
+    "@oawu/queue": "^1.0.10",
+    "i2c-bus": "^5.2.2"
+  }
+}
