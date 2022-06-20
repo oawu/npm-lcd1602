@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 
 # 
-# @author      OA Wu <comdan66@gmail.com>
-# @copyright   Copyright (c) 2015 - 2021, @oawu/lcd1602
+# @author      OA Wu <oawu.tw@gmail.com>
+# @copyright   Copyright (c) 2015 - 2022, @oawu/lcd1602
 # @license     http://opensource.org/licenses/MIT  MIT License
 # @link        https://www.ioa.tw/
 # 

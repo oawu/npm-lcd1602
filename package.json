@@ -1,6 +1,6 @@
 {
   "name": "@oawu/lcd1602",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "🖥 node.js 的 LCD1602 工具",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/comdan66/node-LCD1602.git"
+    "url": "git+https://github.com/oawu/npm-lcd1602.git"
   },
   "keywords": [
     "LCD1602",
@@ -18,16 +18,16 @@
   ],
   "author": {
     "name": "OA Wu",
-    "email": "comdan66@gmail.com",
+    "email": "oawu.tw@gmail.com",
     "url": "https://www.ioa.tw"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/comdan66/node-LCD1602/issues"
+    "url": "https://github.com/oawu/npm-lcd1602/issues"
   },
-  "homepage": "https://github.com/comdan66/node-LCD1602#readme",
+  "homepage": "https://github.com/oawu/npm-lcd1602#readme",
   "dependencies": {
-    "@oawu/queue": "^1.0.10",
+    "@oawu/queue": "^1.0.11",
     "i2c-bus": "^5.2.2"
   }
 }
