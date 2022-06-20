@@ -1,6 +1,6 @@
 {
   "name": "@oawu/lcd1602",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "🖥 node.js 的 LCD1602 工具",
   "main": "index.js",
   "scripts": {
